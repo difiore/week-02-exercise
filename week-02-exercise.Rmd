@@ -1,0 +1,12 @@
+---
+title: "Week 02 Exercise"
+author: "Anthony Di Fiore"
+date: "1/27/2022"
+output: html_document
+---
+
+Start adding expository text
+
+```{r}
+# start adding code
+```
